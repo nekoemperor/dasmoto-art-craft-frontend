@@ -16,7 +16,7 @@ In this project, I built a simple website for a fictional arts and crafts store 
 4. [Image 4](https://content.codecademy.com/courses/freelance-1/unit-2/finnish.jpeg)
 
 ## The Website
-<p align="center"><img src="https://github.com/nekoemperor/mongo-kubernetes/blob/master/images/mongo-kubernetes.gif" width="768"  />
+<p align="center"><img src="https://github.com/nekoemperor/dasmoto-art-craft-frontend/blob/master/resources/images/DasmotoArtCraft.gif" width="768"  />
 
 
 
