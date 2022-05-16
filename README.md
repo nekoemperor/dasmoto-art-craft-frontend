@@ -1,4 +1,4 @@
-## Off-Platform Project: Dasmoto's Arts & Crafts (from CodeCademy)
+## Off-Platform Project: Dasmoto's Arts & Crafts (follow-along Project from CodeCademy)
 
 In this project, I built a simple website for a fictional arts and crafts store using the tools on my own computer.
 
